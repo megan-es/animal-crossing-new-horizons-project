@@ -1,5 +1,5 @@
 # Animal Crossing New Horizons Villager Home Decor Analysis
-
+![My Animal Crossing Character in Front of Her House](/images/my_villager_and_house.jpg)
 ## Overview
 This project analyzes the real estate values within the game Animal Crossing: New Horizons. It focuses on the buy and sell values of home decor for the villagers, comparing these values across various attributes such as species, personality, and gender.
 
