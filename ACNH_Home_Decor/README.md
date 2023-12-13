@@ -1,15 +1,15 @@
-# Animal Crossing New Horizons Villager Real Estate Analysis
+# Animal Crossing New Horizons Villager Home Decor Analysis
 
 ## Overview
 This project analyzes the real estate values within the game Animal Crossing: New Horizons. It focuses on the buy and sell values of home decor for the villagers, comparing these values across various attributes such as species, personality, and gender.
 
 ## Data Source
-The dataset used in this project comes from [Kaggle's Animal Crossing dataset](https://www.kaggle.com/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset). It includes details about the villagers, their home decor preferences, and the corresponding buy and sell values.
+The dataset used in this project comes from [Kaggle's Animal Crossing dataset](https://www.kaggle.com/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset). This dataset includes information pertaining to villagers, items, and achievements found within Animal Crossing New Horizons.
 
 ## Key Findings
 - Villagers exhibit a wide range of home decor values, with some species and personalities showing a higher average net value than others.
 - Gender comparison revealed distinct differences in the average buy and sell values of home decor.
-- The `Sugarshine` subset analysis provided insights into the real estate market of a particular in-game island.
+- The `Sugarshine` subset analysis provided insights into the real estate market of my own island, Sugarshine.
 
 ## Analysis and Visualizations
 The analysis involves:
