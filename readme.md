@@ -1,4 +1,4 @@
-# Animal Crossing: New Horizons Data Analysis Projects <img src="/images/acnh_logo1.png" alt="Animal Crossing Leaf Logo" width="50"/>
+# Animal Crossing: New Horizons Data Analysis Projects <img src="/images/acnh_logo1.png" alt="Animal Crossing Leaf Logo" width="30"/>
 
 <img src="/images/villagers_celebrate_mueseum.jpg" alt="Animal Crossing Mueseum Celebration" width="275"/>
 
