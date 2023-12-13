@@ -3,7 +3,7 @@
 <img src="/images/villagers_celebrate_mueseum.jpg" alt="Animal Crossing Mueseum Celebration" width="275"/>
 
 ## <img src="/images/acnh_logo1.png" alt="Animal Crossing Leaf Logo" width="20"/> Repository Overview
-This repository hosts two distinct yet interrelated projects focusing on the analysis of villagers in the game [Animal Crossing: New Horizons](https://animalcrossing.nintendo.com/new-horizons/) using data from [Kaggle Animal Crossing dataset](https://www.kaggle.com/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset). This dataset includes information pertaining to villagers, items, and achievements found within Animal Crossing New Horizons. Each project is maintained in separate branches:
+This repository hosts two distinct yet interrelated projects focusing on the analysis of villagers in the game [Animal Crossing: New Horizons](https://animalcrossing.nintendo.com/new-horizons/) using data from [Kaggle Animal Crossing dataset](https://www.kaggle.com/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset). This dataset includes information pertaining to villagers, items, and achievements found within Animal Crossing New Horizons. Each project is maintained in separate directories:
 
 1. **General Demographics and Music Preferences Analysis**: Found in the branch `general_demographics_and_music`.
 2. **Real Estate Analysis**: Located in the branch `ACNH_home_decor`.
