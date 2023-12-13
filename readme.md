@@ -5,6 +5,7 @@ This repository hosts two distinct yet interrelated projects focusing on the ana
 
 1. **General Demographics and Music Preferences Analysis**: Found in the branch `general_demographics_and_music`.
 2. **Real Estate Analysis**: Located in the branch `ACNH_home_decor`.
+3. **Animal Crossing New Horizons Nookplaza Dataset** Found in `animal-crossing-new-horizons-nookplaza-dataset`, downloaded from [Kaggle](https://www.kaggle.com/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset).
 
 ## Projects Description
 ### General Demographics and Music Preferences Analysis

@@ -38,9 +38,6 @@ To run the analysis, ensure you have a Python environment with the necessary lib
 1. Clone this repository to your local machine.
 2. Open the Jupyter notebook and run each cell sequentially.
 
-## License
-This project is available under the [MIT License](LICENSE.txt).
-
 ## Contact
 Feel free to connect with me on Linkedin, and reach out with any questions or suggestions! (https://www.linkedin.com/in/-megan-e-smith/).
 
