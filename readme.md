@@ -1,5 +1,5 @@
-# Animal Crossing New Horizons Villagers Analysis
-
+# Animal Crossing: New Horizons Data Analysis Projects
+<img src="/images/villagers_celebrate_mueseum" alt="Animal Crossing Mueseum Celebration" width="275"/>
 ## Repository Overview
 This repository hosts two distinct yet interrelated projects focusing on the analysis of villagers in the game [Animal Crossing: New Horizons](https://animalcrossing.nintendo.com/new-horizons/) using data from [Kaggle Animal Crossing dataset](https://www.kaggle.com/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset). This dataset includes information pertaining to villagers, items, and achievements found within Animal Crossing New Horizons. Each project is maintained in separate branches:
 
