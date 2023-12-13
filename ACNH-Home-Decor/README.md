@@ -26,10 +26,11 @@ The analysis involves:
 - Creating a specific analysis for the `Sugarshine` island, showcasing individual and average values.
 
 ## Repository Contents
-- `ACNH_Real_Estate.ipynb`: Jupyter notebook containing the analysis code.
+- `ACNH_Homes.ipynb`: Jupyter notebook containing the analysis code.
 - `villagers.csv`: Dataset file containing the information about the villagers.
-- `sugarshine_villager_names.csv`: Custom dataset with villagers from my own personal island, `Sugarshine`.
+- `sugarshine_villager_names.csv`: Custom dataset with villagers from my own personal island, Sugarshine`.
 - `visualizations/`: Directory containing generated visualizations.
+- `enhanced-datasets/`: Directory containing enhanced datafiles including total buy and sell prices of villagers homes, both for the entirety of the Villagers dataset, as well as a filtered dataset to include only villagers that exist on my island, 
 
 ## Usage
 To run the analysis, ensure you have a Python environment with the necessary libraries installed, including pandas, matplotlib, and seaborn.
