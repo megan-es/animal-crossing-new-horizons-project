@@ -1,5 +1,5 @@
 # Animal Crossing New Horizons Villager Home Decor Analysis
-<img src="/ACNH_Home_Decor/images/my_villager_and_house.jpg" alt="My Animal Crossing Character" width="300"/>
+<img src="/ACNH_Home_Decor/images/my_villager_and_house.jpg" alt="My Animal Crossing Character" width="275"/>
 
 ## Overview
 This project analyzes the real estate values within the game Animal Crossing: New Horizons. It focuses on the buy and sell values of home decor for the villagers, comparing these values across various attributes such as species, personality, and gender.
@@ -21,7 +21,7 @@ The analysis involves:
 ## Repository Contents
 - `ACNH_Real_Estate.ipynb`: Jupyter notebook containing the analysis code.
 - `villagers.csv`: Dataset file containing the information about the villagers.
-- `sugarshine_villagers.csv`: Custom dataset with villagers from the `Sugarshine` island.
+- `sugarshine_villager_names.csv`: Custom dataset with villagers from my own personal island, `Sugarshine`.
 - `visualizations/`: Directory containing generated visualizations.
 
 ## Usage
