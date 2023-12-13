@@ -7,9 +7,9 @@ This project analyzes the real estate values within the game Animal Crossing: Ne
 ## Built With
 This project is built using the following libraries:
 
-- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) [Pandas](https://pandas.pydata.org/) - Data analysis and manipulation tool.
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-1f425f.svg?style=for-the-badge&logo=Matplotlib&logoColor=white) [Matplotlib](https://matplotlib.org/) - Library for creating static, animated, and interactive visualizations.
-- ![Seaborn](https://img.shields.io/badge/Seaborn-1f425f.svg?style=for-the-badge&logo=Seaborn&logoColor=white) [Seaborn](https://seaborn.pydata.org/) - Statistical data visualization based on Matplotlib.
+- [Pandas](https://pandas.pydata.org/) - Data analysis and manipulation tool.
+- [Matplotlib](https://matplotlib.org/) - Library for creating static, animated, and interactive visualizations.
+- [Seaborn](https://seaborn.pydata.org/) - Statistical data visualization based on Matplotlib.
 
 ## Data Source
 The dataset used in this project comes from [Kaggle's Animal Crossing dataset](https://www.kaggle.com/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset). This dataset includes information pertaining to villagers, items, and achievements found within Animal Crossing New Horizons.
