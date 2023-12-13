@@ -5,7 +5,7 @@
 This project analyzes the real estate values within the game Animal Crossing: New Horizons. It focuses on the buy and sell values of home decor for the villagers, comparing these values across various attributes such as species, personality, and gender.
 
 ## Built With
-This project is built using the following libraries:
+This project is built using the following [Python](https://www.python.org) libraries:
 
 - [Pandas](https://pandas.pydata.org/) - Data analysis and manipulation tool.
 - [Matplotlib](https://matplotlib.org/) - Library for creating static, animated, and interactive visualizations.
