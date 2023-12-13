@@ -2,7 +2,7 @@
 <img src="/ACNH_Home_Decor/images/my_villager_and_house.jpg" alt="My Animal Crossing Character" width="275"/>
 
 ## Overview
-This project analyzes the real estate values within the game Animal Crossing: New Horizons. It focuses on the buy and sell values of home decor for the villagers, comparing these values across various attributes such as species, personality, and gender.
+This project analyzes the real estate values within the game [Animal Crossing: New Horizons](https://animalcrossing.nintendo.com/new-horizons/) It focuses on the buy and sell values of home decor for the villagers, comparing these values across various attributes such as species, personality, and gender.
 
 ## Built With
 This project is built using the following [Python](https://www.python.org) libraries:
