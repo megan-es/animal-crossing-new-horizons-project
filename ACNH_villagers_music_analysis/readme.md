@@ -22,6 +22,17 @@ The analysis involves:
 - [Matplotlib](https://matplotlib.org/) - Library for creating static, animated, and interactive visualizations.
 - [Seaborn](https://seaborn.pydata.org/) - Statistical data visualization based on Matplotlib.
 
+## Analysis and Visualizations
+The analysis involves:
+- Calculating and visualizing occurrence of demographic traits of ACNH characters, such as species and gender.
+- Visualizing the top 10 most common favorite song selections of ACNH characters.
+- Visualizing the song preferences of female versus male villagers.
+
+## Repository Contents
+- `ACNH_Music_Analysis.ipynb`: Jupyter notebook containing the analysis code.
+- `villagers.csv`: Dataset file containing the information about the villagers.
+- `visualizations/`: Directory containing generated visualizations.
+
 ## How to Run
 1. Clone or download this repository.
 2. Ensure you have a Python environment with the necessary libraries.
