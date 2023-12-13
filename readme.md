@@ -10,5 +10,5 @@ This repository hosts two distinct yet interrelated projects focusing on the ana
 ### General Demographics and Music Preferences Analysis
 This branch focuses on exploring the general demographics (species, gender, personality) of the Animal Crossing villagers and analyzing their music preferences. For detailed information, visit the [general-demographics-and-music](https://github.com/megan-es/animal-crossing-new-horizons-project/tree/main/general-demographics-and-music).
 
-### Real Estate Analysis
-The real estate analysis branch delves into the real estate values within Animal Crossing, examining the buy and sell values of villagers' home decor. It includes a specific subset analysis of the villagers on my own personal island, Sugarshine. For more details, check out [ACNH-Home-Decor](https://github.com/megan-es/animal-crossing-new-horizons-project/tree/main/ACNH-Home-Decor).
+### Home Decor Analysis
+The home decor analysis branch delves into the home values within Animal Crossing, examining the buy and sell values of villagers' home decor. It includes a specific subset analysis of the villagers on my own personal island, Sugarshine. For more details, check out [ACNH-Home-Decor](https://github.com/megan-es/animal-crossing-new-horizons-project/tree/main/ACNH-Home-Decor).
