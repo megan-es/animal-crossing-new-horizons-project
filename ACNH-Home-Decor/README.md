@@ -27,6 +27,7 @@ The analysis involves:
 
 ## Repository Contents
 - `ACNH_Homes.ipynb`: Jupyter notebook containing the analysis code.
+- `ACNH_Decor_Analysis.pdf`: Visual presentation of analysis findings.
 - `villagers.csv`: Dataset file containing the information about the villagers.
 - `sugarshine_villager_names.csv`: Custom dataset with villagers from my own personal island, Sugarshine`.
 - `visualizations/`: Directory containing generated visualizations.
